@@ -33,17 +33,22 @@ The output of Instumentation amplifier is given by
 
 
   **CIRCUIT DIAGRAM**
+  
+<img width="1280" height="868" alt="image" src="https://github.com/user-attachments/assets/a695e1ec-fb26-4f3d-9fc6-57e47a4a2d19" />
 
 
   **MODEL GRAPH:**
 
+<img width="1280" height="736" alt="image" src="https://github.com/user-attachments/assets/0d596282-6d2d-490b-88f9-11f934ef470d" />
 
   **TABULATION:**
- 
+  
+ <img width="1280" height="424" alt="image" src="https://github.com/user-attachments/assets/b65ee63f-f1bf-4a9f-80ae-e0a3408bdb56" />
+
 
 **MODEL CALCULATION:**
 
-
+<img width="1280" height="585" alt="image" src="https://github.com/user-attachments/assets/11466226-440e-4ab2-940d-ee00c2a926eb" />
 
 **RESULT:**
 Thus a Instrumentation Amplifier was implemented using op-amp IC 741.
