@@ -41,6 +41,9 @@ The output of Instumentation amplifier is given by
 
 <img width="1280" height="736" alt="image" src="https://github.com/user-attachments/assets/0d596282-6d2d-490b-88f9-11f934ef470d" />
 
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/50058d02-e2ff-4057-af24-e85fda699628" />
+
+
   **TABULATION:**
   
  <img width="1280" height="424" alt="image" src="https://github.com/user-attachments/assets/b65ee63f-f1bf-4a9f-80ae-e0a3408bdb56" />
